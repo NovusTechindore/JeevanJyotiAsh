@@ -1,0 +1,5 @@
+User-agent:Googlebot
+Disallow:
+
+sitemap: http://www.benedictinejjpriory.org/sitemap.xml
+sitemap: http://www.benedictinejjpriory.org/sitemap-images.xml
