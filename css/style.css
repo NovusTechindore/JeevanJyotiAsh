@@ -9766,8 +9766,8 @@ textarea.form-control {
 /* The Close Button */
 .close {
   position: absolute;
-  top: 15px;
-  right: 35px;
+  top: 55px;
+  right: 55px;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
@@ -9784,6 +9784,6 @@ textarea.form-control {
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 600){
   .modal-content {
-    width: 600;
+    width: 100%;
   }
 }
